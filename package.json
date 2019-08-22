@@ -1,0 +1,21 @@
+{
+  "name": "lottie-staticizer",
+  "version": "1.0.0",
+  "description": "lottie vector static",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lottie"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.2.1"
+  }
+}
